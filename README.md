@@ -66,4 +66,5 @@ It also improved my programming skills, especially in error handling, user input
 📝 Conclusion
 Task 3 was a crucial step in understanding real-world cybersecurity practices. By building a Penetration Testing Toolkit from scratch, I learned how attackers think and act, and how systems can be tested for vulnerabilities. The project is a strong foundation for future ethical hacking tools, and it opened doors for further enhancements like adding GUI support, more modules (DNS lookup, banner grabbing), or real network protocol integration (e.g., SSH, FTP). This task was not only educational but also rewarding and inspiring.
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/431b4b38-d7e7-46b9-8f72-fb430ed6eccd)
 
